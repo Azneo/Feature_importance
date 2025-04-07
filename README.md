@@ -33,7 +33,7 @@ This project explores the key features influencing car prices using machine lear
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Car-Price-Prediction.git
+    git clone https://github.com/Azneo/Car-Price-Prediction.git
     ```
 
 2. **Install the required dependencies**:
